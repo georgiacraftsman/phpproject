@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>カート | Noodle Shop</title>
+<title>カート | 中華料理　油</title>
 <link rel="stylesheet" href="shop.css">
 </head>
 <body>
